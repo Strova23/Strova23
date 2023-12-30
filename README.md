@@ -1,5 +1,4 @@
-### 👋 Introduction
-___________________________________________________________________________________________________________________
+# 👋 My Introduction
 
 Hello! I'm Adam, a self-taught Data Analyst with expertise in data analysis, reporting, and visualization. 
 - Data Analysis and querying data using SQL
