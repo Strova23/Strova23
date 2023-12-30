@@ -7,7 +7,9 @@ Hello! I'm Adam, a self-taught Data Analyst with expertise in data analysis, rep
 - Reporting and analysis using Excel and Google Sheets. 
 
 ### 💻 Projects
-Feel free to check out my [GitHub website](https://strova23.github.io/)
+Feel free to check out my portfolio! <br> 
+[Projects](https://strova23.github.io/) <br>
+[8 Week SQL Challenge](https://github.com/Strova23/SQL-Analysis)
 
 ### 🎓 Education
 University of North Carolina at Chapel Hill
