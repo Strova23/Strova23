@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Strova23/Strova23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Adam, a self-taught Data Analyst with expertise in data analysis, reporting, and visualization. 
+- Data Analysis and querying data using SQL
+- Generating reports and performing ad-hoc data analysis using SQL
+- Developing dashboards on Tableau
+- Reporting and analysis using Excel and Google Sheets. 
 
+Feel free to check out my [GitHub website]([url](https://strova23.github.io/))
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
