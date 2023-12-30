@@ -6,7 +6,7 @@ Hello! I'm Adam, a self-taught Data Analyst with expertise in data analysis, rep
 - Developing dashboards on Tableau
 - Reporting and analysis using Excel and Google Sheets. 
 
-Feel free to check out my [GitHub website]([url](https://strova23.github.io/))
+Feel free to check out my [GitHub website]([https://strova23.github.io/])
 <!--
 Here are some ideas to get you started:
 
